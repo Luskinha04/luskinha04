@@ -1,4 +1,4 @@
-<h3 align="left">Olá! Eu sou o Lucas Lemos... 👋</h3>
+<h1 align="left">Olá! Eu sou o Lucas Lemos... 👋</h1>
 
 ###
 
